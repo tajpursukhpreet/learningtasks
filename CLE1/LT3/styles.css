@@ -1,0 +1,184 @@
+body {
+    background-image: url(bgpic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:1325px;
+    height: 900px;
+    background-color:skyblue;
+    opacity: 95%;
+}
+#mainbox #firstrow {
+    height:350px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:350px;
+}
+#mainbox #firstrow .butterchicken {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .butterchicken img{
+    width:100%;
+    height:60%;
+}
+#mainbox #firstrow .butterchicken p {
+    font-size:12px; 
+}
+#mainbox #firstrow .chickencurry {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .chickencurry img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #firstrow .chickencurry p {
+    font-size:12px;
+}
+#mainbox #firstrow .Friedchicken {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .Friedchicken img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #firstrow .Friedchicken p {
+    font-size:12px;
+}
+#mainbox #firstrow .Chocolatecake {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .Chocolatecake  img{
+    width:100%;
+    height: 50%;
+}
+#mainbox #firstrow .Chocolatecake  p {
+    font-size:12px;
+} 
+#mainbox #firstrow .bluemarlin {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .bluemarlin img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #firstrow .bluemarlin p {
+    font-size:12px;
+}
+#mainbox #secondrow .bangus {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .bangus img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #secondrow .bangus p {
+    font-size:12px;
+}
+#mainbox #secondrow .grilledcheese{
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .grilledcheese img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #secondrow .grilledcheese p {
+    font-size:12px;
+}
+#mainbox #secondrow .tinola {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .tinola img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #secondrow .tinola p {
+    font-size:12px;
+}
+#mainbox #secondrow .pizza {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .pizza img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #secondrow .pizza p {
+    font-size:12px;
+}
+#mainbox #secondrow .lumpia {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px white;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .lumpia img{
+    width:100%;
+    height: 40%;
+}
+#mainbox #secondrow .lumpia p {
+    font-size:12px;
+}
